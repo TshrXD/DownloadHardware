@@ -1,0 +1,42 @@
+/* body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)), url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.loginbox{
+    max-width: 700px;
+    float: none;
+    margin: 220px auto;
+}
+.mylogo {
+    width: 700px;
+}
+input text */
+
+.mylogo-nav{
+    width: 300px;
+}
+
+body{
+    background: url(../images/doc.png);
+    background-size: cover;
+}
+
+.fontorio{
+    color:aliceblue;
+    font-family: 'Gotham Black', sans-serif;
+    font-size:72px ;
+}
+
+.fontorio-s{
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.bbxs{
+    float: none;
+    position: relative;
+    top: 300px;
+}

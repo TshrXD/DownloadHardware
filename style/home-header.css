@@ -1,0 +1,22 @@
+.mylogo-nav{
+    width: 300px;
+}
+
+
+.fontorio{
+    color:aliceblue;
+    font-family: 'Gotham Black', sans-serif;
+    font-size:72px ;
+}
+
+.fontorio-s{
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.bbxs{
+    float: none;
+    position: relative;
+    top: 300px;
+}

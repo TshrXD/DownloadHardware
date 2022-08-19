@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)), url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.loginbox{
+    max-width: 700px;
+    float: none;
+    margin: 220px auto;
+}
+.mylogo {
+    width: 700px;
+    
+}
+/* input text*/
